@@ -13,6 +13,20 @@ This document provides a description of how to open links from your email using 
 
 By following these steps, you can efficiently open links from your email using automation and ensure that all links are successfully loaded.
 
+## Troubleshooting Modules
+
+If you encounter issues with the modules, follow these steps to resolve them:
+
+1. Make sure you have activated your virtual environment in the working directory where you intend to use the modules.
+
+2. Install the required module using the following command:
+   
+   -By following these steps, you can ensure that the required modules are correctly installed and accessible within your virtual environment.
+
+   -Remember to replace `(module required)` with the actual name of the module you need to install.
+
+
+
 
 
 
