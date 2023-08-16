@@ -26,7 +26,7 @@ If you encounter issues with the modules, follow these steps to resolve them:
    -Remember to replace `(module required)` with the actual name of the module you need to install.
 
 
-
+### To run this file open your terminal and type `python -u Script.py`
 
 
 
