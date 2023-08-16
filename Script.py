@@ -67,4 +67,4 @@ def open_links(link_no):
 	BROWSER.quit()
 	print('OPENED ALL LINKS SUCCESSFULLY.')
 
-open_links(190)
+open_links(0)
